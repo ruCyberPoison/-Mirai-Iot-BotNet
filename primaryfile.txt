@@ -1,11 +1,18 @@
 # 0x2423config
 Config for Firefox Leaking anonymity
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$CARDING$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+""
+Educational porpuses only **!!**
+""
 ############################################################################################
 
 
 Here is setting brazuera Firefox, with which you will be able to safely and effectively deal with carding activities.
 
-Type in the address bar about: config
+open your firefox on your vpn and,
+
+Type in the address bar      about: config
 
 And change the default settings for the following:
 
