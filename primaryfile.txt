@@ -1,0 +1,83 @@
+# 0x2423config
+Config for Firefox Leaking anonymity
+############################################################################################
+
+
+Here is setting brazuera Firefox, with which you will be able to safely and effectively deal with carding activities.
+
+Type in the address bar about: config
+
+And change the default settings for the following:
+
+geo.enabled = false
+
+geo.wifi.uri = [leave blank]
+
+network.http.accept.default = text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+
+network.http.use-cache = false
+
+network.http.keep-alive.timeout = 600
+
+network.http.max-persistent-connections-per-proxy = 16
+
+network.proxy.socks_remote_dns = true
+
+network.cookie.lifetimePolicy = 2
+
+network.http.sendRefererHeader = 0
+
+network.http.sendSecureXSiteReferrer = false
+
+network.protocol-handler.external = false [***1042;***1082;***1083;***1102;***1095;***1072;** *1077;***1084; ***1074;***1089;***1077; ***1087;***1086;***1076;***1087;***1072;***1088;** *1072;***1084;***1077;***1088;***1099; ***1074; ***1079;***1085;***1072;***1095;***1077;***1085;** *1080;***1080; false]
+
+network.protocol-handler.warn-external = true [***1042;***1082;***1083;***1102;***1095;***1072;** *1077;***1084; ***1074;***1089;***1077; ***1087;***1086;***1076;***1087;***1072;***1088;** *1072;***1084;***1077;***1088;***1099; ***1074; ***1079;***1085;***1072;***1095;***1077;***1085;** *1080;***1080; true]
+
+network.http.pipelining = true
+
+network.http.pipelining.maxrequests = 8
+
+network.http.proxy.keep-alive = true
+
+network.http.proxy.pipelining = true
+
+network.prefetch-next = false
+
+browser.cache.disk.enable = false
+
+browser.cache.offline.enable = false
+
+browser.sessionstore.privacy_level = 2
+
+browser.sessionhistory.max_entries = 2
+
+browser.display.use_document_fonts = 0
+
+intl.charsetmenu.browser.cache = ISO-8859-9, windows-1252, windows-1251, ISO-8859-1, UTF-8
+
+dom.storage.enabled = false
+
+extensions.blocklist.enabled = false
+
+Other
+
+Turn off all plugins [tools -> addons -> plugins]
+Turn off the update [tools -> options -> advanced -> update]
+Enable "Do not follow me" [tools -> options -> privacy]
+Disable history (cookie). [tools -> options -> privacy]
+
+Useful addons
+
+BetterPrivacy
+Close n forget
+Ghostery
+Https-Everywhere
+Modify Headers
+NoScript
+RefControl
+User Agent Switcher
+
+
+at the end test if your anonymity is 100% at https://whoer.net
+if not 100% check again your about:config
+
