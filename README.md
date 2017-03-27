@@ -24,7 +24,8 @@ responsibility.
 The [zip file](https://www.virustotal.com/en/file/f10667215040e87dae62dd48a5405b3b1b0fe7dbbfbf790d5300f3cd54893333/analysis/1477822491/) for the is repo is being identified by some AV programs as malware.  Please take caution. 
 
 ## -----TUTORIAL --------
-you can find the TUTORIAL in this github project
+you can find the TUTORIAL in this github project:
+
 https://github.com/Screamfox/0x2423config/blob/master/TUTORIAL.txt
 
 
