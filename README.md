@@ -1,5 +1,13 @@
 # Mirai Iot BotNet by 0Days
 
+#### What is Mirai Iot ?
+
+read a litle about here:
+
+http://dyn.com/blog/dyn-statement-on-10212016-ddos-attack/
+
+#
+
 Leaked Linux.Mirai Source Code for Research/IoT Development Purposes
 
 Uploaded for research purposes and so we can develop IoT and such.
