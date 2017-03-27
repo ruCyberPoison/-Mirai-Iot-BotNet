@@ -101,13 +101,13 @@ The [zip file](https://www.virustotal.com/en/file/f10667215040e87dae62dd48a5405b
 
 
 
-## Looking for more Botnets ? this is the list the botnet i know !!
+## Looking for more Botnets for ddos attacks and spam ? this is the list the botnet i know !!
 
 * spyeye,
 * zeus,
 * citadel,
 * ice 9,
-* Ufonet, (IS A CANCER) 
+* Ufonet, (IS A CANCER)!!
 * Atmos,
 * DENDROID,
 * Grum
@@ -119,3 +119,10 @@ The [zip file](https://www.virustotal.com/en/file/f10667215040e87dae62dd48a5405b
 * Srizbi
 * Kraken
 * Metulji and Mariposa
+* µBOT originally named “WEBNET”
+* festi botnet
+* carna botnet
+* Srizbi botnet
+
+
+#### *Sincerely , Screamfox AB member
